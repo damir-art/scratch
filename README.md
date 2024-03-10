@@ -1,0 +1,2 @@
+# scratch
+Руководство по Scratch
